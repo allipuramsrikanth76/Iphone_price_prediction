@@ -1,6 +1,4 @@
-# Iphone_price_prediction
-This iPhone price prediction about predicting the iPhone price this is a basic project
-
+# Phoen Future Price Prediction based on versions
 required import:
 pandas
 matplotlin
